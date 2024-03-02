@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/screening_frontend/static/css/main.aa4db09e.css",
+    "main.js": "/screening_frontend/static/js/main.b4328e03.js",
+    "index.html": "/screening_frontend/index.html",
+    "main.aa4db09e.css.map": "/screening_frontend/static/css/main.aa4db09e.css.map",
+    "main.b4328e03.js.map": "/screening_frontend/static/js/main.b4328e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4db09e.css",
+    "static/js/main.b4328e03.js"
+  ]
+}
